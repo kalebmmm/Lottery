@@ -1,0 +1,5 @@
+reward: 100
+cost: 50
+# Default 1 in 10 chance of winning
+# You all did fractions in like 5th grade, 2 / 10 = 1 / 5
+winchance: 1/10

@@ -1,0 +1,6 @@
+name: Lottery
+author: iPhony
+version: 1.0
+main: io.github.phonyfakeorreal.lottery.Lottery
+description: Wooo, a lottery plugin!
+depend: [Vault]
